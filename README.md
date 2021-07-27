@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @latifahh-21
+- 👋 Hi, I’m @Latifah.M
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning web and app developing
 - 📫 How to reach me @latifahmtoro@gmail.com
